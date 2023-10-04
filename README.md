@@ -3,3 +3,5 @@ https://github.com/Richardgtx/stm32_breathing_light/assets/139878921/0fae9521-72
 
 
 ![微信图片_20231004141535](https://github.com/Richardgtx/breathing_light_stm32/assets/139878921/ad3125df-5739-4c31-9375-e5b4eb04e394)
+
+![微信图片_202310041415363](https://github.com/Richardgtx/breathing_light_stm32/assets/139878921/d718049f-7705-49c3-91e9-6d01e693c6ac)
